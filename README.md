@@ -13,12 +13,10 @@ As we can see:
     - Average temperature: **71.04°F**
     - Min temperature: **56°F**
     - Max temperature: **83°F**
-![June_temperature](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_temperature.png)
-![June_temperature_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation_statistics.png)
-*June*
-![December_temperature](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_temperature.png)
-![December_temperature_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_temperature_statistics.png)
-*December*
+![June_temperature](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_temperature.png) ![June_temperature_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation_statistics.png)
+##### *June*
+![December_temperature](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_temperature.png) ![December_temperature_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_temperature_statistics.png)
+##### *December*
 
 That means that there´s almost only a 4° variation through summer and winter, which makes a great place for surfing due to its **great weather** almost all year
 
@@ -31,9 +29,8 @@ Opening a surf shop would be a smart investment, just by looking at the temperat
 - **December**:
     - Average precipitation: **0.217 inches per day**
     - Max precipitation is **6.42 inches on a single day**
-![June_precipitation](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation.png)
-![June_precipitation_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation_statistics.png)
-*June*
-![December_precipitation](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_precipitation.png)
-![December_precipitation_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_precipitation_statistics.png)
-By analysing these data we can realize that even it barely rain all year, there are also few days with excesive rain, that will help to make a responsible vacation destination.
+![June_precipitation](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation.png) ![June_precipitation_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/June_precipitation_statistics.png)
+##### *June*
+![December_precipitation](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_precipitation.png) ![December_precipitation_statistics](https://github.com/davescudero/Surfs_up/blob/main/Challenge/Resources/December_precipitation_statistics.png)
+##### *December*
+#### By analysing these data we can realize that even it barely rain all year, there are also few days with excesive rain, that will help to make a responsible vacation destination.
